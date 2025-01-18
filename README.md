@@ -1,1 +1,1 @@
-https://github.com/vitartek/roadmapexercises/blob/main/1%20single%20page/index.html
+https://roadmap.sh/projects/single-page-cv
